@@ -15666,7 +15666,7 @@
                   (0, en.jsx)("div", {
                     className: "flex items-center",
                     children: (0, en.jsx)("img", {
-                      src: "/logo.jpg",
+                      src: "/rapid-fitneess/logo.jpg",
                       alt: "Rapid Fitness",
                       className: "h-16 w-auto",
                     }),
@@ -16487,7 +16487,7 @@
             className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center",
             children: [
               (0, en.jsx)("img", {
-                src: "/logo.jpg",
+                src: "/rapid-fitneess/logo.jpg",
                 alt: "Rapid Fitness",
                 className: "h-20 w-auto mx-auto mb-4",
               }),
